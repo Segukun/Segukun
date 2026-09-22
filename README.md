@@ -8,11 +8,11 @@ I'm a **technical programming student** focused on software and web development.
 
 - Currently focusing on software and web development.
 - Combined experience in programming, digital content, and social media sales.
-- You can check out all my live projects on my [Personal Portfolio / Website](https://netlify.app).
+- You can check out all my live projects on my [Personal Website](https://sdgportfolio.netlify.app).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Frontend & Core
 ![HTML5](https://shields.io)
@@ -31,20 +31,20 @@ I'm a **technical programming student** focused on software and web development.
 
 ### 📂 Featured Projects
 
-*   **[HoloLearn](https://github.com)** - A Full Stack Learning Management System (LMS) built with React, Express.js, and MySQL. It features user authentication and progress tracking.
-*   **[HolyShop](https://github.com)** - A static E-commerce demo inspired by VTubers, focusing on managing shopping cart behaviors using `localStorage`.
-*   **[Case Opener](https://github.com)** - An interactive web game built entirely on the frontend using HTML, CSS, and JavaScript.
+*   **[HoloLearn](https://github.com/Segukun/HoloLearn)** - A Full Stack Learning Management System (LMS) built with React, Express.js, and MySQL. It features user authentication and progress tracking.
+*   **[HolyShop]([https://github.com](https://github.com/Segukun/HolyShop))** - A static E-commerce demo inspired by VTubers, focusing on managing shopping cart behaviors using `localStorage`.
+*   **[Case Opener](https://github.com/Segukun/Case-opener)** - An interactive web game built entirely on the frontend using HTML, CSS, and JavaScript.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Segundo's GitHub Stats" />
+  <img src="https://shion.dev" alt="Segundo's GitHub Stats" />
 </p>
 
 ---
 
 ### Let's Connect
 
-If you want to talk or collaborate on something new, feel free to reach out through my [Portfolio](https://netlify.app) contact page or  browse through my repositories here!
+If you want to talk or collaborate on something new, feel free to reach out through my [Portfolio](https://sdgportfolio.netlify.app) contact page or browse through my repositories here!
