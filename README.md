@@ -15,10 +15,10 @@ I'm a **technical programming student** focused on software and web development.
 ### Tech Stack & Tools
 
 #### Frontend & Core
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="Vite" />
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Vite](https://shields.io)
 
 #### Backend, Databases & Languages
-<img src="https://shields.io" alt="NodeJS" /> <img src="https://shields.io" alt="Express.js" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="C#" />
+![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![MySQL](https://shields.io) ![C#](https://shields.io)
 
 ---
 
