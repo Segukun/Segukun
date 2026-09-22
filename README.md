@@ -32,7 +32,7 @@ I'm a **technical programming student** focused on software and web development.
 ### 📂 Featured Projects
 
 *   **[HoloLearn](https://github.com/Segukun/HoloLearn)** - A Full Stack Learning Management System (LMS) built with React, Express.js, and MySQL. It features user authentication and progress tracking.
-*   **[HolyShop]([https://github.com](https://github.com/Segukun/HolyShop))** - A static E-commerce demo inspired by VTubers, focusing on managing shopping cart behaviors using `localStorage`.
+*   **[HolyShop](https://github.com/Segukun/HolyShop)** - A static E-commerce demo inspired by VTubers, focusing on managing shopping cart behaviors using `localStorage`.
 *   **[Case Opener](https://github.com/Segukun/Case-opener)** - An interactive web game built entirely on the frontend using HTML, CSS, and JavaScript.
 
 ---
