@@ -8,32 +8,25 @@ I'm a **technical programming student** focused on software and web development.
 
 - Currently focusing on software and web development.
 - Combined experience in programming, digital content, and social media sales.
-- You can check out all my live projects on my [Personal Website](https://sdgportfolio.netlify.app).
+- You can check out all my live projects on my [Personal Website](https://netlify.app).
 
 ---
 
 ### Tech Stack & Tools
 
 #### Frontend & Core
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Vite](https://shields.io)
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="Vite" />
 
 #### Backend, Databases & Languages
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![MySQL](https://shields.io)
-![C#](https://shields.io)
+<img src="https://shields.io" alt="NodeJS" /> <img src="https://shields.io" alt="Express.js" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="C#" />
 
 ---
 
 ### 📂 Featured Projects
 
-*   **[HoloLearn](https://github.com/Segukun/HoloLearn)** - A Full Stack Learning Management System (LMS) built with React, Express.js, and MySQL. It features user authentication and progress tracking.
-*   **[HolyShop](https://github.com/Segukun/HolyShop)** - A static E-commerce demo inspired by VTubers, focusing on managing shopping cart behaviors using `localStorage`.
-*   **[Case Opener](https://github.com/Segukun/Case-opener)** - An interactive web game built entirely on the frontend using HTML, CSS, and JavaScript.
+*   **[HoloLearn](https://github.com)** - A Full Stack Learning Management System (LMS) built with React, Express.js, and MySQL. It features user authentication and progress tracking.
+*   **[HolyShop](https://github.com)** - A static E-commerce demo inspired by VTubers, focusing on managing shopping cart behaviors using `localStorage`.
+*   **[Case Opener](https://github.com)** - An interactive web game built entirely on the frontend using HTML, CSS, and JavaScript.
 
 ---
 
@@ -47,4 +40,4 @@ I'm a **technical programming student** focused on software and web development.
 
 ### Let's Connect
 
-If you want to talk or collaborate on something new, feel free to reach out through my [Portfolio](https://sdgportfolio.netlify.app) contact page or browse through my repositories here!
+If you want to talk or collaborate on something new, feel free to reach out through my [Portfolio](https://netlify.app) contact page or browse through my repositories here!
