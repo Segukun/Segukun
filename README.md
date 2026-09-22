@@ -45,14 +45,14 @@ I'm a **technical programming student** focused on software and web development.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Segukun&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Segukun&show_icons=true&theme=github_dark"
     alt="Segundo Del Giorgio's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segukun&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Segukun&layout=compact&theme=github_dark"
     alt="Segundo Del Giorgio's Most Used Languages"
   />
 </p>
