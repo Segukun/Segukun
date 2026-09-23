@@ -61,4 +61,4 @@ I'm a **technical programming student** focused on software and web development.
 
 ### Let's Connect
 
-If you want to talk or collaborate on something new, feel free to reach out through my [Portfolio](https://sdgportfolio.netlify.app) contact page or browse through my repositories here!
+If you want to talk or collaborate on something new, feel free to reach out through my [website](https://sdgportfolio.netlify.app) contact page or browse through my repositories here!
